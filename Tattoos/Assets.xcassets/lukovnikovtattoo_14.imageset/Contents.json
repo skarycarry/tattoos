@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "CAD03441-9053-4EF2-A4C7-04588E8E73EE_1_201_a.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

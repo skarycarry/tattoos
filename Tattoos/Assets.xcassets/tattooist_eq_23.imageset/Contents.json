@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "CEBE5084-733A-451A-9215-3AF6C209ED4B_1_201_a.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
